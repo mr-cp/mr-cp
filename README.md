@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedlRishad
+- 👋 Hi, I’m @MuhammedRishadcp
 - 👀 I’m interested in ...creating
 - 🌱 I’m currently learning ...Core Java
 - 💞️ I’m looking to collaborate on ...beginner API projects
