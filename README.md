@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/muhamme05537998" target="blank"><img src="https://img.shields.io/twitter/follow/muhamme05537998?logo=twitter&style=for-the-badge" alt="muhamme05537998" /></a> </p>
 
-- 🔭 I’m currently working on **Student Management App**
+- 🔭 I’m currently working on **GoGroc - An Ecom App**
 
-- 🌱 I’m currently learning **Firebase, Hive, Architecture, Rest API**
+- 🌱 I’m currently learning **Design Pattern, Statemanagement, Architecture, Rest API**
 
-- 👨‍💻 All of my projects are available at [mr-cp.github.io](mr-cp.github.io)
+- 👨‍💻 All of my projects are available at mr-cp.github.io
 
 - 💬 Ask me about **Flutter, Dart, Architecture Patterns, Firebase, Hive**
 
 - 📫 How to reach me **rishad551@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mr-cp/](https://www.linkedin.com/in/mr-cp/)
+- 📄 Know about my experiences https://www.linkedin.com/in/mr-cp/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
