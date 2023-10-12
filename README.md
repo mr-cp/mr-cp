@@ -1,13 +1,19 @@
 ![logo](https://github.com/mr-cp/mr-cp/blob/main/image%20(1).png)
 <h1 align="center">Badges Recieved🌱</h1>   
-<div  style="position: absolute; inset: 0; box-sizing: border-box; padding: 0; border: none; margin: auto; display: block; width: 20%; height: 20%; object-fit: contain;">
-<img src= 
-"https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp"  style="width: 20%; height: 20%; object-fit: contain; float: right;">
+
+<div  
+style="position: absolute; inset: 0; box-sizing: border-box; padding: 0; border: none; margin: auto; display: block; width: 20%; height: 20%; object-fit: contain;">
+<img src= "https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp"  style="width: 20%; height: 20%; object-fit: contain; float: right;">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
      style= "position: absolute; inset: 0; box-sizing: border-box; padding: 0; border: none; margin: auto; display: block;  width: 20%; height: 20%; object-fit: contain;">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" style="width: 20%; height: 20%; object-fit: contain; float: right;">
-  
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" style="width: 20%; height: 20%; object-fit: contain; float: right;">
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
+style="width: 20%; height: 20%; object-fit: contain; float: right;">     
 </div>
+
+<br>
+<br>
+
 <h1 align="center">Hi 👋, I'm Muhammed Rishad</h1>
 <h3 align="center">A passionate flutter developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
