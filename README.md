@@ -2,13 +2,16 @@
 <h1 align="center">Badges Recieved🌱</h1>   
 
 <div  
-style="position: absolute; inset: 0; box-sizing: border-box; padding: 0; border: none; margin: auto; display: block; width: 20%; height: 20%; object-fit: contain;">
-<img src= "https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp"  style="width: 20%; height: 20%; object-fit: contain; float: right;">
+style="width: 20%; height: 20%; object-fit: contain; float: right;">
+<img src= "https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" 
+style="width: 20%; height: 20%; object-fit: contain; float: right;">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
-     style= "position: absolute; inset: 0; box-sizing: border-box; padding: 0; border: none; margin: auto; display: block;  width: 20%; height: 20%; object-fit: contain;">
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" style="width: 20%; height: 20%; object-fit: contain; float: right;">
+style="width: 18%; height: 18%; object-fit: contain; float: right;">   
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" style="width: 18%; height: 18%; object-fit: contain; float: right;">
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
-style="width: 20%; height: 20%; object-fit: contain; float: right;">     
+style="width: 18%; height: 18%; object-fit: contain; float: right;">     
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
+style="width: 18%; height: 18%; object-fit: contain; float: right;">     
 </div>
 
 <br>
