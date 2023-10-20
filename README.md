@@ -11,7 +11,8 @@ style="width: 18%; height: 18%; object-fit: contain; float: right;">
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
 style="width: 18%; height: 18%; object-fit: contain; float: right;">     
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
-style="width: 18%; height: 18%; object-fit: contain; float: right;">     
+style="width: 18%; height: 18%; object-fit: contain; float: right;"> 
+  <img src="https://ci6.googleusercontent.com/proxy/1-XNhQ9jHWi05fGbg-sxoUJpq5eUPNsOieHIKovzcUTPknXhzcU2FOc6cfKDbINcCsIPpjxawqlNv6c9eIEpWvDrs6vM5YjaQyBKJorVQi2Z_17uaORdB5084tRA4MJhHUic8uefm5F0jiLq0rtof7VU0qJi6ao1vYsdMDZGJiphanQzCX0_NKa0lOOy21fuKBHwJqka2RSTFnR5PMDUMqXZHu4kBAWTP8o=s0-d-e1-ft#https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16Zmc3bjM0OTM0MGZsMXo4aTJoMmloIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge image" style="width: 18%; height: 18%; object-fit: contain; float: right;"> 
 </div>
 
 <br>
